@@ -7,7 +7,7 @@ import PropertyList from './components/PropertyList';
 import Contact from './pages/Contact';
 import Login from './pages/Login';
 import PropertyDetail from './pages/PropertyDetail';
-import './styles/app.css';
+import '../src/styles/App.css'; // CSS dosyasının yolu
 
 // Protected Route bileşeni
 const ProtectedRoute = ({ children }) => {

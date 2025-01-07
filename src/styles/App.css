@@ -2910,8 +2910,8 @@ body {
 }
 /* Footer */
 .footer {
-  background-color: #FFFFFF; /* Beyaz arka plan */
-  color: #FFD700; /* Altın renk */
+  background-color: #282828;
+  color: white;
   padding: 40px 0;
   font-family: Arial, sans-serif;
 }
@@ -2934,13 +2934,11 @@ body {
   font-size: 2rem;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #FFD700; /* Altın renk */
 }
 
 .footer-description {
   font-size: 1rem;
   margin-bottom: 20px;
-  color: #FFD700; /* Altın renk */
 }
 
 .footer-social-icons {
@@ -2949,20 +2947,19 @@ body {
 }
 
 .social-icon {
-  color: #FFD700; /* Altın renk */
+  color: white;
   font-size: 1.5rem;
   transition: color 0.3s ease;
 }
 
 .social-icon:hover {
-  color: #DAA520; /* Altın rengi hover */
+  color: #007bff;
 }
 
 .footer-title {
   font-size: 1.25rem;
   margin-bottom: 10px;
   font-weight: bold;
-  color: #FFD700; /* Altın renk */
 }
 
 .footer-links,
@@ -2979,14 +2976,14 @@ body {
 
 .footer-links a,
 .footer-contact a {
-  color: #FFD700; /* Altın renk */
+  color: white;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .footer-links a:hover,
 .footer-contact a:hover {
-  color: #DAA520; /* Altın rengi hover */
+  color: #007bff;
 }
 
 .footer-bottom {
@@ -2994,7 +2991,6 @@ body {
   margin-top: 40px;
   border-top: 1px solid #444;
   padding-top: 20px;
-  color: #FFD700; /* Altın renk */
 }
 
 .footer-bottom p {
@@ -3006,14 +3002,14 @@ body {
 }
 
 .footer-bottom-links a {
-  color: #FFD700; /* Altın renk */
+  color: white;
   margin: 0 10px;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .footer-bottom-links a:hover {
-  color: #DAA520; /* Altın rengi hover */
+  color: #007bff;
 }
 
 /* Responsive design */
@@ -3032,4 +3028,3 @@ body {
     padding-top: 15px;
   }
 }
-
